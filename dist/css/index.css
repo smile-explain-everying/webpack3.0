@@ -1,0 +1,14 @@
+body{
+    padding:0;
+    margin:0;
+    color:red;
+}
+#tu{
+    background-image: url(http://192.168.199.106:1717/images/93454b6b78d405d62a3d1defcd7f59df.jpg);
+    width: 600px;
+    height: 400px;
+    -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+    -webkit-box-shadow: 1px 1px 0 rgba(red, green, blue, alpha);
+            box-shadow: 1px 1px 0 rgba(red, green, blue, alpha)
+}
